@@ -1,7 +1,4 @@
 spring:
-  config:
-    import: optional:configserver:http://config.com
-
   security:
     oauth2:
       resourceserver:
